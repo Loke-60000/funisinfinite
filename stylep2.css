@@ -1,0 +1,20 @@
+.image1 {
+    position: absolute;
+    opacity: 15%;
+}
+
+.majin {
+    padding-top: 150px;
+    margin-left: 650px;
+    left: 35%;
+    top: 15%;
+}
+body {
+    background-color: black;
+}
+h1 {
+    color: red;
+    font-family: 'Silkscreen', cursive;
+    position: absolute;
+    left: 33%;
+}

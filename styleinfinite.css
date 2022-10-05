@@ -1,0 +1,7 @@
+body {
+    /* animated version but wrong text */
+    /* background-image: url(fun\ is\ infinite.gif); */
+    background-image: url(funisinfiniter.jpg);
+    background-position: 150px 1000px;
+    background-size: 85%;
+}
